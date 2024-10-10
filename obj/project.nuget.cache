@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cs4x1fUhkak=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Satmeetsingh\\Desktop\\OOPs\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Satmeetsingh\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
